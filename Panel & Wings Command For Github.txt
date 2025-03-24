@@ -1,0 +1,28 @@
+Commands To Install Panel And Wings On GitHub :-
+
+
+
+
+Panel Install :-
+
+1 - git clone https://github.com/hydren-dev/HydraPanel
+2 - mv HydraPanel hydra
+3 - cd hydra
+4 - npm install
+5 - npm run seed
+6 - npm run createUser
+7 - node .
+
+
+Wings Install :-
+
+1 - git clone https://github.com/hydren-dev/HydraDAEMON
+2 - cd HydraDAEMON/
+3 - npm i
+4 - go to the panel create a node then click on configure button copy the code and paste it in the terminal .
+5 - node .
+
+
+Dash Install :-
+Complete 50 Likes On This Video For Dashboard Install Video
+
