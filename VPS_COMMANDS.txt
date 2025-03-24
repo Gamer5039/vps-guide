@@ -11,7 +11,8 @@ VPS installing Commands :-
 Pterodactyl Panel Install :-
 
 
-1 - git clone https://github.com/YoshiWalsh/docker-pterodactyl-panel
+1 - git clone https://github.com/Gamer5039/vps-guide/tree/main/docker-pterodactyl-panel
+git clone https://github.com/YoshiWalsh/docker-pterodactyl-panel
 2 - cd docker-pterodactyl-panel
 3 - docker-compose up -d
 4 - docker ps
