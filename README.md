@@ -1,1 +1,1 @@
-# vps-guide
+# VPS Guide
